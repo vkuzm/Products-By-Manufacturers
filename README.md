@@ -8,7 +8,6 @@ Opencart
 Description:
 You can make custom product list by manufacturers in home or another page. 
 
-=======================================
 Installation:
 
 1. Upload files from "upload" folder
