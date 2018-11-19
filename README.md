@@ -13,5 +13,3 @@ Installation:
 1. Upload files from "upload" folder
 2. Go to "Extensions - Modules" find "Products From Manufacturers" and configure it
 3. Do not forget choose this module in Layouts page.
-
-![alt text](https://github.com/the-azeroth/ProductsFromManufacturers/blob/master/screenshot.jpg)
