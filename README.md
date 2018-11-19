@@ -1,5 +1,6 @@
 
 Plugin name: Products From Manufacturers
+
 Version: 1.0
 
 CMS:
